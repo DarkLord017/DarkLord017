@@ -7,6 +7,7 @@
 - 🔭 Currently working on **selene**
 - 🌟 Winner of Nethermind track at EthGlobal & Open Track at  StackToDeep hackathon
 - $ Core Member at BlocSoc IITR
+- You can see the projects i worked upon in highlighted repositories
   
 
 ## Tech Stack 💻
