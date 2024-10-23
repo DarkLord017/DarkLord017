@@ -4,7 +4,7 @@
 
 ## About Me 🚀
 - 🌱 Building in Web3 & Blockchain space
-- 🔭 Currently working on **selene**
+- 🔭 Currently working on **selene** & **athena**
 - 🌟 Winner of Nethermind track at EthGlobal & Open Track at  StackToDeep hackathon
 - $ Core Member at BlocSoc IITR
 - You can see the projects i worked upon in highlighted repositories
@@ -45,6 +45,8 @@ impl TechnicalInterests {
                "EVM Development".to_string(),
                "Light Clients".to_string(),
                "RWA asets".to_string(),
+               "Blockchain data decoding".to_string(),
+               "ERC standards".to_string(),
            ],
            infrastructure: vec![
                "P2P Networks".to_string(),
