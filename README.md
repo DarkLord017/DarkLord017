@@ -5,7 +5,7 @@
 ## About Me 🚀
 - 🌱 Building in Web3 & Blockchain space
 - 🔭 Currently working on **selene** & **athena**
-- 🌟 Winner of Nethermind track at EthGlobal & Open Track at  StackToDeep hackathon
+- 🌟 Winner of Nethermind track at EthGlobal | Finalist @BasedIndia
 - $ Core Member at BlocSoc IITR
 - You can see the projects i worked upon in highlighted repositories
   
