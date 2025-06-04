@@ -4,9 +4,8 @@
 
 ## About Me 🚀
 - 🌱 Building in Web3 & Blockchain space
-- 🔭 Currently working on **selene** & **athena**
 - 🌟 Winner of Nethermind track at EthGlobal | Finalist @BasedIndia | Winner of Socket , Polygon , Base tracks at EthIndia 2024
-- $ Core Member at BlocSoc IITR
+- $ Core Member at BlocSoc IITR , Intern at Anthias Labs
 - You can see the projects i worked upon in highlighted repositories
   
 
