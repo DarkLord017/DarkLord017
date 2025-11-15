@@ -6,8 +6,7 @@
 - 🌱 Building in Web3 & Blockchain space
 - prev Defi intern at Anthias | PLDG Cohotr 4 fellow
 - 🌟 Winner of Nethermind track at EthGlobal | Finalist @BasedIndia | Winner of Socket , Polygon , Base tracks at EthIndia 2024 | Winner @ETHVietnam 2025
-- $ Core Member at BlocSoc IITR , Intern at Anthias Labs
-- You can see the projects i worked upon in highlighted repositories
+- $ Core Member at BlocSoc IITR
   
 
 ## Tech Stack 💻
