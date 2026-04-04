@@ -1,59 +1,51 @@
-# 👋 Hello World! I'm DarkLord017
+# Sambhav Jain
 
+Third-year B.Tech student at IIT Roorkee, focused on blockchain infrastructure, EVM internals, and protocol engineering. I enjoy building :)
 
+Currently a Ethereum Core Developer Intern at Nethermind.
 
-## About Me 🚀
-- 🌱 Building in Web3 & Blockchain space
-- prev Defi intern at Anthias | PLDG Cohotr 4 fellow
-- 🌟 Winner of Nethermind track at EthGlobal | Finalist @BasedIndia | Winner of Socket , Polygon , Base tracks at EthIndia 2024 | Winner @ETHVietnam 2025
-- $ Core Member at BlocSoc IITR
-  
+---
 
-## Tech Stack 💻
-```rust
-// Languages I speak
-let languages = [
-    "Rust 🦀", "Golang 🐹", "Solidity ⚡", 
-    "Vyper 🐍", "Huff 🔧", "JavaScript 🌐",
-    "Python 🐍", "C++ ⚙️", "Yul 🔬"
-];
+## What I Work On
 
-// Current Learning Path
-fn currently_learning() {
-    println!("📚 Golang");
-    println!("🦀 Rust");
-    println!("🌐 Distributed Systems");
-}
+Most of my time goes into smart contract development, protocol tooling, and DeFi infrastructure. I have a particular interest in EVM internals, formal verification, and cross-chain systems.
 
+I contribute to the Filecoin ecosystem as a core contributor across filecoin-services, synapse-sdk, filecoin-pay, and pdp. I have also contributed to reth, Lotus, and OpenZeppelin's Rust contracts.
 
-```
+---
 
-## Technical intrests
-```rust
-struct TechnicalInterests {
-   blockchain: Vec<String>,
-   infrastructure: Vec<String>,
-   security: Vec<String>
-}
+## Recent Work
 
-impl TechnicalInterests {
-   fn new() -> Self {
-       TechnicalInterests {
-           blockchain: vec![
-               "Account Abstraction".to_string(),
-               "EVM Development".to_string(),
-               "Light Clients".to_string(),
-               "RWA asets".to_string(),
-               "Blockchain data decoding".to_string(),
-               "ERC standards".to_string(),
-           ],
-           infrastructure: vec![
-               "P2P Networks".to_string(),
-               "Distributed Systems".to_string(),
-           ],
-           security: vec![
-               "Smart Contract Security".to_string(),
-           ],
-       }
-   }
-}
+**Anthias Labs** — DeFi & AWS Engineering Intern  
+Built routing logic for Uniswap V2, V3, Kittenswap, and Hyperswap. Delivered optimized swap routes under 2 seconds using custom indexers and DynamoDB-backed state storage.
+
+**Protocol Labs Dev Guild** — Fellow (Cohorts 4, 5, 6)  
+Improved deployment scripts and smart contract logic for FilOZ. Fixed SDK and Lotus client issues. Contributed to Storacha's rclone-compatible project.
+
+**BlocSoc IIT Roorkee** — Core Member  
+Built cross-chain functions using Axelar, wrote fuzz tests in Huff for mathematical primitives, and organized lectures and hackathons for university freshmen.
+
+---
+
+## Hackathons
+
+- Winner — Base India 2024
+- Winner — EthIndia 2024 (Base, Socket, Polygon tracks)
+- Winner — EthOnline 2024 (Nethermind track)
+- Winner — Stack Too Deep (Open & UniDAO tracks)
+- Winner — ETHVietnam 2025
+
+---
+
+## Skills
+
+Solidity, Foundry, Huff, Yul, Rust, Golang, Python, JavaScript, C#
+Ethereum, The Graph, ethers.js, web3.js  
+AWS (IAM, Lambda, EC2, DynamoDB , EC2/ECS , Volumes), Docker, Nginx , Kubernets , Helm 
+
+---
+
+## Find Me
+
+[LinkedIn](https://www.linkedin.com/in/sambhav-jain-7552a0287) · [GitHub](https://github.com/DarkLord017) · [Twitter](https://x.com/0x_Wyrm) · [Telegram](https://t.me/OxWyrm)  
+sambhavjain170944@gmail.com
