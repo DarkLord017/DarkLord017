@@ -15,7 +15,7 @@ I contribute to the Filecoin ecosystem as a core contributor across filecoin-ser
 ---
 
 ## Recent Work
-**Nethermind** - Ethereum Core Developer & DevOps Intern 
+**Nethermind** - Ethereum Core Developer & DevOps Intern<br>
 Worked on fixing bugs & parity issues in the Nethermind client , added features like block overrides , fork overrides , added streaming etc.
 Refactored erigon's black box rpc-testing tool to work with full nodes instead of archive node with almost complete coverage also built workflows to run compare different clients as per the test suite.
 In Devops worked with ArgoCd , prometheus Operators , grafana , terraform , etc. fixed a loot of issues and learnt a loooot of thingss
