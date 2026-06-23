@@ -2,8 +2,6 @@
 
 Third-year B.Tech student at IIT Roorkee, focused on blockchain infrastructure, EVM internals, and protocol engineering. I enjoy building :)
 
-Currently an Intern at Nethermind.
-
 ---
 
 ## What I Work On
