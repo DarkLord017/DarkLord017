@@ -4,48 +4,14 @@ Final-year B.Tech student at IIT Roorkee, focused on blockchain infrastructure, 
 
 ---
 
-## What I Work On
-
-Most of my time goes into smart contract development, protocol tooling, and DeFi infrastructure. I have a particular interest in EVM internals, formal verification, and cross-chain systems.
-
-I contribute to the Filecoin ecosystem as a core contributor across filecoin-services, synapse-sdk, filecoin-pay, and pdp. I have also contributed to reth, Lotus, and OpenZeppelin's Rust contracts.
-
----
-
-## Recent Work
-**Nethermind** - Ethereum Core Developer & DevOps Intern<br>
-Worked on fixing bugs & parity issues in the Nethermind client , added features like block overrides , fork overrides , added streaming etc.
-Refactored erigon's black box rpc-testing tool to work with full nodes instead of archive node with almost complete coverage also built workflows to run compare different clients as per the test suite.
-In Devops worked with ArgoCd , prometheus Operators , grafana , terraform , etc. fixed a loot of issues and learnt a loooot of thingss
-
-**Anthias Labs** — DeFi & AWS Engineering Intern  
-Built routing logic for Uniswap V2, V3, Kittenswap, and Hyperswap. Delivered optimized swap routes under 2 seconds using custom indexers and DynamoDB-backed state storage.
-
-**Protocol Labs Dev Guild** — Fellow (Cohorts 4, 5, 6)  
-Improved deployment scripts and smart contract logic for FilOZ. Fixed SDK and Lotus client issues. Contributed to Storacha's rclone-compatible project.
-
-**BlocSoc IIT Roorkee** — Core Member  
-Built cross-chain functions using Axelar, wrote fuzz tests in Huff for mathematical primitives, and organized lectures and hackathons for university freshmen.
-
----
-
-## Hackathons
-
-- Winner — Base India 2024
-- Winner — EthIndia 2024 (Base, Socket, Polygon tracks)
-- Winner — EthOnline 2024 (Nethermind track)
-- Winner — Stack Too Deep (Open & UniDAO tracks)
-- Winner — ETHVietnam 2025
-
----
-
-## Skills
-
-Solidity, Foundry, Huff, Yul, Rust, Golang, Python, JavaScript, C#
-Ethereum, The Graph, ethers.js, web3.js  
-AWS (IAM, Lambda, EC2, DynamoDB , EC2/ECS , Volumes), Docker, Nginx , Kubernets , Helm 
-
----
+## Open Source Contributions 
+[Nethermind](https://github.com/NethermindEth/nethermind/pulls?q=is%3Apr+state%3Aclosed+author%3ADarkLord017)
+[Nethermind Helm-Charts](https://github.com/NethermindEth/helm-charts/pulls?q=is%3Apr+state%3Aclosed+author%3ADarkLord017)
+[Nethermind rpc tests](https://github.com/NethermindEth/rpc-tests/pulls?q=is%3Apr+state%3Aclosed+author%3ADarkLord017)
+[Defillama dimension adapters](https://github.com/DefiLlama/dimension-adapters/pulls?q=is%3Apr+state%3Aclosed+author%3ADarkLord017)
+[Filecoin-services](https://github.com/FilOzone/filecoin-services/pulls?q=is%3Apr+state%3Aclosed+author%3ADarkLord017)
+[OpenZeppelin contracts](https://github.com/OpenZeppelin/rust-contracts-stylus/pulls?q=is%3Apr+state%3Aclosed+author%3ADarkLord017)
+and others
 
 ## Find Me
 
