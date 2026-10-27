@@ -1,8 +1,6 @@
 # Sambhav Jain
 
 Final-year B.Tech student at IIT Roorkee, focused on blockchain infrastructure, EVM internals, and protocol engineering. I enjoy building :)
-
-2T95JYVD
 ---
 
 ## Open Source Contributions 
